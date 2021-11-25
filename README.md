@@ -16,13 +16,13 @@ Quick Test:
 
 + use python "pipenv" package to enter the project environments.
 
->pipenv shell
+>$pipenv shell
 
 and
 
 + install python packages from requirments.txt
 
->pipenv install -r requirements.txt
+>$pipenv install -r requirements.txt
 
 
 #### Step 2
@@ -33,7 +33,7 @@ and
 
 + According to the provided test questions and automate the test API and use the python "pytest" module.
 
->pytest test_StarWars.py
+>$pytest test_StarWars.py
 
 and complete to show all of the testing result.
 
@@ -41,7 +41,7 @@ and complete to show all of the testing result.
 
 + According to the provided test questions and use "Locust" to make API stress testing.
 
->python locustfile.py
+>$python locustfile.py
 
 and complete to show all of the testing result.
 
@@ -49,4 +49,4 @@ and complete to show all of the testing result.
 
 + Exit the pipenv environment.
 
->exit
+>$exit
