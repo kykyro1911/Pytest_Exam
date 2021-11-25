@@ -19,11 +19,11 @@ Quick Test:
 
 >pipenv shell
 
-or
+and
 
-+ install python packages from pip
++ install python packages from pipenv lock
 
->pip install -r requirements.txt
+>pipenv lock --requirements
 
 #### Step 2
 
