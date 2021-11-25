@@ -21,9 +21,10 @@ Quick Test:
 
 and
 
-+ install python packages from pipenv lock
++ install python packages from requirments.txt
 
->pipenv lock --requirements
+>pipenv install -r requirements.txt
+
 
 #### Step 2
 
@@ -33,7 +34,7 @@ and
 
 + According to the provided test questions and automate the test API and use the python "pytest" module.
 
->pytest test_StarWars.py`
+>pytest test_StarWars.py
 
 and complete to show all of the testing result.
 
@@ -41,6 +42,12 @@ and complete to show all of the testing result.
 
 + According to the provided test questions and use "Locust" to make API stress testing.
 
->python locustfile.py`
+>python locustfile.py
 
 and complete to show all of the testing result.
+
+#### Step 5
+
++ Exit the pipenv environment.
+
+>exit
