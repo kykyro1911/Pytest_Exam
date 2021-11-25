@@ -3,9 +3,11 @@ Pytest_Practice
 
 Requirements
 ---
-python version : python 3.8.0
+python version : 3.8.0
 
 operating system : Windows 10
+
+
 
 
 Quick Test:
@@ -16,6 +18,12 @@ Quick Test:
 + use python "pipenv" package to enter the project environments.
 
 >pipenv shell
+
+or
+
++ install python packages from pip
+
+>pip install -r requirements.txt
 
 #### Step 2
 
