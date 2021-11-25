@@ -9,7 +9,6 @@ operating system : Windows 10
 
 
 
-
 Quick Test:
 ---
 
@@ -28,7 +27,7 @@ and
 
 #### Step 2
 
-+ According to the provided test questions and set the "StarWars_Params.ini" file to declear the **Star Warz** parameters.
++ According to the provided test questions and set the "/data/StarWars_Params.ini" file to declear the **Star Warz** parameters.
 
 #### Step 3
 

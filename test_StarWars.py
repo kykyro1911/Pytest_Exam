@@ -9,7 +9,7 @@ import os, configparser
 host = 'https://swapi.dev/api/'
 # rdINI
 curpath = os.path.dirname(os.path.realpath(__file__))
-cfgpath = os.path.join(curpath, 'StarWars_Params.ini')
+cfgpath = os.path.join(curpath, './data/StarWars_Params.ini')
 conf = configparser.ConfigParser()
 conf.read(cfgpath, encoding='utf-8')
 cfg_ = conf['params']
