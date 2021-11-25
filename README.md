@@ -27,7 +27,7 @@ or
 
 #### Step 2
 
-+ set the "StarWars_Params.ini" file to declear the **Star Warz** parameters.
++ According to the provided test questions and set the "StarWars_Params.ini" file to declear the **Star Warz** parameters.
 
 #### Step 3
 
